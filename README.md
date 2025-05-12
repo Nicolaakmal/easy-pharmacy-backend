@@ -80,7 +80,7 @@ Backend ini dirancang dengan model database yang tercermin dalam ERD yang telah 
    DB_NAME_DEV=easy_pharmacy
    DB_HOST_DEV=localhost
    DB_PORT_DEV=5432
-   # Optional: if you're using these elsewhere
+   
    DB_USER=postgres
    DB_PASSWORD=postgres
    DB_NAME=easy_pharmacy
